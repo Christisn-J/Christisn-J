@@ -8,11 +8,11 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/MichaelSt98">
+	<a href="https://github.com/Christisn-J">
 		<img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white"/>
 	</a>
-	<a href="https://www.linkedin.com/in/michael-staneker">
-		<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	<a href="https://www.xing.com/profile/Christian_Jetter3/">
+		<img src=["https://static.xingcdn.com/og-cover-image.png"/>
 	</a>
 </p>
 
