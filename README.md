@@ -25,6 +25,7 @@ Currently in the process of doing my master's degree in physics at the <a href="
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=black" alt="GNU" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-4180aa?&style=for-the-badge&logo=python&logoColor=white" alt="python" align="center" height="24"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/anaconda-4fba37?&style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/overleaf-00763d?&style=for-the-badge&logo=overleaf&logoColor=white" alt="overleaf" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" align="center" height="24"/> 
@@ -74,9 +75,23 @@ Currently in the process of doing my master's degree in physics at the <a href="
 <p>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="C" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HDF5-0693e3?style=for-the-badge&logo=&logoColor=white" alt="HDF5" align="center" height="24"/>
+</p>
 </div>
 
 <!--
+<div align="center">
+<h4>IDE</h4>
+<p>
+jupyter notebook
+spyder
+eclipse
+matlab
+PyCharm
+CLion
+VS Code
+</p>
+</div>
+
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" align="center" height="24"/>
 <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>&nbsp;&nbsp;
 -->
