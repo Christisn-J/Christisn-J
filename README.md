@@ -60,6 +60,8 @@ Currently in the process of doing my master's degree in physics at the <a href="
 <div align="center">
 <h4> and more </h4>
 <p>
+<img src="https://img.shields.io/badge/jetbrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="git" align="center" height="24"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/matlab-ffba00?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/htmx-648aff?style=for-the-badge&logo=htmx&logoColor=white" alt="htmx" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" align="center" height="24"/>&nbsp;&nbsp;
@@ -74,6 +76,9 @@ Currently in the process of doing my master's degree in physics at the <a href="
 <img src="https://img.shields.io/badge/HDF5-0693e3?style=for-the-badge&logo=&logoColor=white" alt="HDF5" align="center" height="24"/>
 </div>
 
+<!--
+<img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" align="center" height="24"/>
+-->
 ------------
 
 <h3> Projects </h3>
@@ -86,64 +91,27 @@ Currently in the process of doing my master's degree in physics at the <a href="
   <tr>
     <td valign="top" align="left" width="500">
     <ul>
-      <li> <a href="https://michaelst98.github.io/milupHPC/">milupHPC API documentation</a>
-      <li>A HPC N-Body and Smoothed Particle Hydrodyamics (SPH) code via CUDA-aware MPI targeting distributed memory systems</li>
-      <li>For 1, 2 and 3 dimensional simulation</li>
-      <li>Dynamic load balancing using space-filling curves</li>
-      <li>Current test cases:</li>
-      <ul>
-      <li>Plummer model</li>
-      <li>Taylor–von Neumann–Sedov blast wave</li>
-      <li>Isothermal collapse of a molecular cloud (Boss & Bodenheimer)</li>
-	 </ul>
+	<li> <a href="https://christophmschaefer.github.io/milupHPC/">milupHPC API documentation</a>
+	<li>A HPC N-Body and Smoothed Particle Hydrodyamics (SPH) code via CUDA-aware MPI targeting distributed memory systems</li>
+	<li>For 1, 2 and 3 dimensional simulation</li>
+	<li>Dynamic load balancing using space-filling curves</li>
+	<li>Current test cases:</li>
+	<ul>
+	      <li>Plummer model</li>
+	      <li>Taylor–von Neumann–Sedov blast wave</li>
+	      <li>Isothermal collapse of a molecular cloud (Boss & Bodenheimer)</li>
+	      <li>Elastic rings</li>
+	</ul>
     </ul>
-    <a href="https://github.com/MichaelSt98/MilupHPC">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelSt98&repo=MilupHPC" />
+    <a href="https://github.com/christophmschaefer/miluphpc">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christophmschaefer&repo=MilupHPC" />
       </a>
     </td>
     <td align="center" width="500">
-    <img src="gifs/4proc_plummer_dynamic.gif" alt="sample plummer model"  width="400" />
+    <img src=".gif" alt="elastic rings"  width="400" />
     </td>
   </tr>
 </table>
-
-
-<details>
-  <summary>More information ...</summary>
-  
-This repository aims to implement a **Multi-GPU SPH/NBody algorithm using CUDA aware MPI** by combining ideas from:
-
-* **Single-GPU version inspired/adopted from:**
-	* [Miluphcuda](https://github.com/christophmschaefer/miluphcuda) 
-	* [An Efficient CUDA Implementation of the Tree-Based Barnes Hut n-Body Algorithm](https://iss.oden.utexas.edu/Publications/Papers/burtscher11.pdf)
-	* [Implementation: MichaelSt98/NNS](https://github.com/MichaelSt98/NNS/tree/main/3D/CUDA/CUDA_NBody) CUDA\_NBody
-* **Multi-Node (or rather Multi-CPU) version inspired/adopted from:**
-	* M. Griebel, S. Knapek, and G. Zumbusch. Numerical Simulation in Molecular Dynamics: Numerics, Algorithms, Parallelization, Applications. 1st. Springer Pub- lishing Company, Incorporated, 2010. isbn: 3642087760
-	* [Implementation: MichaelSt98/NNS (branch: MolecularDynamics)](https://github.com/MichaelSt98/NNS/tree/MolecularDynamics/MolecularDynamics/BarnesHutParallel)
-
-
-* some more samples: each color represents a process, thus a GPU
-* **Kepler disk**
-	* Kepler disk: four GPUs (hilbert curve)
-
-<img src="gifs/kepler_hilbert_4proc.gif" alt="Plummer"  width="400" />
-
-* **Plummer model**
-	* four GPUs with dynamic load balancing every 10th step (top: lebesgue, bottom: hilbert)
-
-<img src="gifs/4proc_plummer_dynamic.gif" alt="Plummer"  width="400" />
-
-* **Taylor–von Neumann–Sedov blast wave**
-	* Sedov explosion: one and two GPUs
-
-<img src="gifs/sedov_sample_movie.gif" alt="Sedov"  width="400" />
-
-* **Boss-Bodenheimer: isothermal collapse**
-	* one and two GPUs 
-
-<img src="gifs/bb_sample_movie.gif" alt="Boss Bodenheimer"  width="400" />
-
-</details>
 
 ------------
 
