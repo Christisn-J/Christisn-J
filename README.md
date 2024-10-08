@@ -33,7 +33,7 @@ Currently in the process of doing my master's degree in physics at the <a href="
 </div>
 
 <div align="center">
-<h4> languages </h4>
+<h4> others languages </h4>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" align="center" height="24"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" align="center" height="24"/>
