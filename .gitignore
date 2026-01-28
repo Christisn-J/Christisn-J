@@ -1,0 +1,11 @@
+# Ignore all directories starting with "archiv" at any depth
+**/archiv*/
+
+# Ignore all directories named "log" at any depth
+**/log/
+
+# Ignore JetBrains IDE project settings directory
+# Used by IntelliJ IDEA, CLion, PyCharm, etc.
+
+.DS_Store
+.idea
