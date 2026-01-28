@@ -15,7 +15,7 @@ Currently in the process of doing my master's degree in physics at the <a href="
 		<img src="https://img.shields.io/badge/Xing-007271?style=for-the-badge&logo=xing&logoColor=white"/>
 	</a>
 	<a href="www.linkedin.com/in/christian-jetter-0052673a5">
-		<img src="https://img.shields.io/badge/Xing-007271?style=for-the-badge&logo=xing&logoColor=white"/>
+		<img src="logo=LinkedIn&logoColor=white"/>
 	</a>
 </p>
 </div>
