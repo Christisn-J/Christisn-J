@@ -94,6 +94,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
             <li>Taylor–von Neumann–Sedov blast wave</li>
             <li>Isothermal collapse of a molecular cloud (Boss & Bodenheimer)</li>
             <li>Elastic rings</li>
+            <li>Plastic deformation von Mises criterion</li>
           </ul>
         </li>
       </ul>
