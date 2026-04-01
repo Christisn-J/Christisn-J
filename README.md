@@ -104,8 +104,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
     </td>
     <td align="center" width="500">
       <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 10px;">
-        <img src="gifs/milupHPC/8_proc.gif" width="300" alt="Plastic deformation Al6061"/>
-        <img src="gifs/milupHPC/7_rho.gif" width="300" alt="Density visualization"/>
+        <img src="gifs/milupHPC/synced.gif" width="300" alt="Plastic deformation Al6061"/>
       </div>
     </td>
 </table>
