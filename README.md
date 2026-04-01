@@ -103,7 +103,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
       </a>
     </td>
     <td align="center" width="500">
-      <img src="gifs/plastic_deformation_al6061.gif" alt="Plastic deformation Al6061" width="400" />
+      <img src="gifs/milupHPC/8_proc.gif" alt="Plastic deformation Al6061" width="400" />
     </td>
   </tr>
 </table>
