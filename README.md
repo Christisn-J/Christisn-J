@@ -103,9 +103,11 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
       </a>
     </td>
     <td align="center" width="500">
-      <div style="display: flex; gap: 10px; justify-content: center;">
-        <img src="gifs/milupHPC/8_proc.gif" width="245"/>
-        <img src="gifs/milupHPC/7_rho.gif" width="245"/>
+      <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin-top: 10px;">
+        <img src="gifs/milupHPC/8_proc.gif" width="300" alt="Plastic deformation Al6061"/>
+        <img src="gifs/milupHPC/7_rho.gif" width="300" alt="Density visualization"/>
+        <img src="gifs/milupHPC/9_velocity.gif" width="300" alt="Velocity field"/>
+        <img src="gifs/milupHPC/10_pressure.gif" width="300" alt="Pressure field"/>
       </div>
     </td>
 </table>
