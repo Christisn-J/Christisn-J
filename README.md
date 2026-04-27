@@ -233,10 +233,11 @@ Focused on C++ software development, numerical simulation, high-performance comp
 - Focus on performance, numerical stability, and scalability  
 
 Applications include:
-- Astrophysical simulations (Plummer models)  
-- Shock physics (Sedov blast wave)  
-- Fluid and solid mechanics  
-- Material modeling including plasticity (von Mises criterion)  
+<li>Plummer model</li>
+<li>Taylor–von Neumann–Sedov blast wave</li>
+<li>Isothermal collapse of a molecular cloud (Boss & Bodenheimer)</li>
+<li>Elastic rings</li>
+<li>Plastic deformation von Mises criterion</li>
 
 </td>
 
