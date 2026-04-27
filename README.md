@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <h1>Christian Jetter</h1>
 
@@ -116,4 +116,112 @@ University of Tübingen.
     <td align="center" width="500">
         <img src="gifs/milupHPC/synced.gif", alt="Plastic deformation Al6061"/>
     </td>
+</table> -->
+
+
+<div align="center">
+
+<h1>Christian Jetter</h1>
+
+<p>
+M.Sc. in <strong>Physics</strong> with a specialization in <strong>Computational Physics</strong> and
+<strong>Scientific Software Development</strong>, completed at the
+<a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
+University of Tübingen
+</a>.
+</p>
+
+<p>
+Focused on <strong>C++ software development</strong>, <strong>numerical simulations</strong>, and
+<strong>data-driven scientific computing</strong>.
+</p>
+
+<p>
+  <a href="https://github.com/Christisn-J">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christian-jetter-0052673a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.xing.com/profile/Christian_Jetter3/">
+    <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧠 Core Expertise
+
+- Scientific Software Development (C++ / Python)
+- Numerical Simulation & Computational Physics
+- High-Performance Computing (HPC / CUDA / MPI)
+- Data Analysis & Scientific Visualization
+- Physics-based Modeling & Algorithm Development
+
+---
+
+## 🧰 Technologies
+
+### Programming
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</p>
+
+### Tools & Development
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
+</p>
+
+### Scientific Computing
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HDF5-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MPI-007ACC?style=for-the-badge"/>
+</p>
+
+### IDEs
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spyder-8C0000?style=for-the-badge&logo=spyder&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Selected Project
+
+### 🧠 MilupHPC — HPC Simulation Framework
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- High-performance N-body + SPH simulation framework  
+- Developed in **modern C++ with CUDA-aware MPI**  
+- Scalable from single GPU to distributed HPC systems  
+- Supports 1D / 2D / 3D physical simulations  
+- Dynamic load balancing via space-filling curves  
+- Focus on **performance, scalability, and numerical stability**
+
+**Applications:**
+- Astrophysical simulations (Plummer models)
+- Shock physics (Sedov blast wave)
+- Fluid & solid mechanics
+- Plasticity & material modeling (von Mises)
+
+</td>
+
+<td width="45%" align="center">
+  <img src="gifs/milupHPC/synced.gif" alt="Simulation"/>
+</td>
+</tr>
 </table>
