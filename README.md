@@ -161,7 +161,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
 
 ## Technologies
 
-### Programming Languages
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -170,9 +170,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
----
-
-### Development Tools & Environment
+#### Development Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -181,9 +179,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
-### Python & Scientific Computing Stack
+#### Python & Scientific Computing Stack
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
@@ -193,9 +189,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
 </p>
 
----
-
-### HPC & Data Processing
+#### HPC & Data Processing
 <p>
   <img src="https://img.shields.io/badge/MPI-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge"/>
@@ -205,9 +199,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <!-- <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/> -->
 </p>
 
----
-
-### IDEs & Development Environments
+#### IDEs & Development Environments
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
