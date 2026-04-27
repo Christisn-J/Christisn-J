@@ -61,7 +61,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
 <p>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" height="24"/>
   <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=vscode&logoColor=white" alt="VSCode" height="24"/>
-  <img src="https://img.shields.io/badge/Spyder-8C0000?style=for-the-badge&logo=spyder&logoColor=white">
+  <img src="https://img.shields.io/badge/Spyder-8C0000?style=for-the-badge&logo=spyder&logoColor=white" alt="Spyder" height="24"/>
   <img src="https://img.shields.io/badge/Matlab-ffba00?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" height="24"/>
   
 </p>
