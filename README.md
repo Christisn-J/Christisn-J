@@ -57,11 +57,18 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
   <img src="https://img.shields.io/badge/MySQL-00759d?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="24"/>
 </p>
 
-<h4>Additional Tools</h4>
+<h4>IDE</h4>
 <p>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" height="24"/>
-  <img src="https://img.shields.io/badge/Pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="pip" height="24"/>
+  <img src="https://img.shields.io/badge/VS-Code-00078d7?style=for-the-badge&logo=vs-code&logoColor=white" alt="VS-Code" height="24"/>
+  <img src="https://img.shields.io/badge/Spyder-8C0000?style=for-the-badge&logo=spyder&logoColor=white" alt="Spyder" height="24"/>
   <img src="https://img.shields.io/badge/Matlab-ffba00?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" height="24"/>
+  
+</p>
+
+<h4>Additional Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/Pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="pip" height="24"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" height="24"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" height="24"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" height="24"/>
