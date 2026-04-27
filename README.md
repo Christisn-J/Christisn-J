@@ -123,14 +123,15 @@ University of Tübingen.
 <h1>Christian Jetter</h1>
 
 <p>
-M.Sc. in Physics with a specialization in Computational Physics and Scientific Software Development, completed at the
+M.Sc. in Physics | Computational Physics & Scientific Software Development
+<br>
 <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
 University of Tübingen
 </a>.
 </p>
 
 <p>
-Focused on C++ software development, numerical simulation, high-performance computing, and scientific data analysis.
+Focused on scientific software engineering, numerical simulation, high-performance computing, computer vision, and data-driven methods.
 </p>
 
 <p>
