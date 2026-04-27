@@ -204,6 +204,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/> -->
 </p>
+
 ---
 
 ### IDEs & Development Environments
