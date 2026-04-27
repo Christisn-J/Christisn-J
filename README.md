@@ -170,26 +170,49 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### Development Tools
+---
+
+### Development Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### Scientific Computing
+---
+
+### Python & Scientific Computing Stack
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HDF5-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MPI-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### IDEs
+---
+
+### HPC & Data Processing
+<p>
+  <img src="https://img.shields.io/badge/MPI-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HDF5-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/>
+</p>
+
+---
+
+### IDEs & Development Environments
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spyder-8C0000?style=for-the-badge&logo=spyder&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-FFBA00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
 ---
