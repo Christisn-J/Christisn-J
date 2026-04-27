@@ -40,6 +40,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" height="24"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="24"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="24"/>
 </p>
 
 <h4>Operating Systems</h4>
@@ -63,13 +64,13 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" height="24"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" height="24"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" height="24"/>
+  <img src="https://img.shields.io/badge/HDF5-0693e3?style=for-the-badge&logo=&logoColor=white" alt="HDF5" height="24"/>
 </p>
 
 <h4>Learning</h4>
 <p>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="24"/>
-  <img src="https://img.shields.io/badge/HDF5-0693e3?style=for-the-badge&logo=&logoColor=white" alt="HDF5" height="24"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="24"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=black" alt="Qt" height="24"/>
 </p>
 
 </div>
