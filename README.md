@@ -38,7 +38,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
 
 <h4>Other Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logoColor=black" alt="C" height="24"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" height="24"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="24"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" height="24"/>
 </p>
@@ -70,7 +70,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
 <h4>Learning</h4>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="24"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logoColor=white" alt="Qt" height="24"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="24"/>
 </p>
 
 </div>
