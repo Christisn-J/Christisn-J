@@ -191,15 +191,15 @@ Focused on C++ software development, numerical simulation, high-performance comp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-#### HPC & Data Processing
+<!-- #### HPC & Data Processing
 <p>
   <img src="https://img.shields.io/badge/MPI-007ACC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenMP-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HDF5-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSV-239120?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/> -->
-</p>
+  <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/> 
+</p> -->
 
 #### IDEs & Development Environments
 <p>
