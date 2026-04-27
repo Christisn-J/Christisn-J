@@ -127,7 +127,7 @@ M.Sc. in Physics | Computational Physics & Scientific Software Development
 <br>
 <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
 University of Tübingen
-</a>.
+</a>
 </p>
 
 <p>
