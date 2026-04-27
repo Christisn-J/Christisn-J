@@ -152,9 +152,11 @@ Focused on C++ software development, numerical simulation, high-performance comp
 ## Core Expertise
 
 - Scientific software development in C++ and Python
-- Numerical simulation of physical systems
-- High-performance computing (HPC, CUDA, MPI)
-- Data analysis and scientific visualization
+<!-- - High-performance computing and parallel computing (HPC, CUDA, MPI, OpenMP) -->
+- Numerical simulation and scientific computing
+- Computer vision and image processing (OpenCV)
+<!-- - Machine learning and deep learning (PyTorch)
+- Scientific data analysis and visualization -->
 - Physics-based modeling and algorithm development
 
 ---
