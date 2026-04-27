@@ -220,6 +220,14 @@ Focused on scientific software engineering, numerical simulation, high-performan
   <img src="https://img.shields.io/badge/Matlab-FFBA00?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
+### Operating Systems & Distributions
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
 ---
 
 ## Selected Project
