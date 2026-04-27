@@ -3,8 +3,10 @@
 <h1>Christian Jetter</h1>
 
 <p>
-Currently pursuing a <strong>Master's degree in Physics</strong> at the 
-<a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">University of Tübingen</a>.
+M.Sc. in <strong>Physics</strong> with a specialization in <strong>Computational Physics</strong> and
+<strong>Scientific Software Development</strong>, completed at the
+<a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
+University of Tübingen.
 </p>
 
 <p>
