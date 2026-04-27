@@ -237,7 +237,7 @@ Applications include:
 - Taylor–von Neumann–Sedov blast wave
 - Isothermal collapse of a molecular cloud (Boss & Bodenheimer)
 - Elastic rings
-- Plastic deformation von Mises criterion
+- Plastic deformation (von Mises criterion)
 
 </td>
 
