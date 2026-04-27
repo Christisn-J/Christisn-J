@@ -131,7 +131,7 @@ University of Tübingen
 </p>
 
 <p>
-Focused on scientific software engineering, numerical simulation, high-performance computing, computer vision, and data-driven methods.
+Focused on scientific software engineering, numerical simulation, high-performance computing, computer vision and data-driven methods.
 </p>
 
 <p>
