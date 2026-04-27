@@ -233,11 +233,11 @@ Focused on C++ software development, numerical simulation, high-performance comp
 - Focus on performance, numerical stability, and scalability  
 
 Applications include:
-<li>Plummer model</li>
-<li>Taylor–von Neumann–Sedov blast wave</li>
-<li>Isothermal collapse of a molecular cloud (Boss & Bodenheimer)</li>
-<li>Elastic rings</li>
-<li>Plastic deformation von Mises criterion</li>
+- Plummer model
+- Taylor–von Neumann–Sedov blast wave
+- Isothermal collapse of a molecular cloud (Boss & Bodenheimer)
+- Elastic rings
+- Plastic deformation von Mises criterion
 
 </td>
 
