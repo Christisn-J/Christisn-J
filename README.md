@@ -153,7 +153,7 @@ Focused on C++ software development, numerical simulation, high-performance comp
 
 - Scientific software development in C++ and Python
 - Numerical simulation and scientific computing
-- Computer vision and image processing (OpenCV)
+- Computer vision and image processing
 - Scientific data analysis and visualization 
 - Physics-based modeling and algorithm development
 <!-- - High-performance computing and parallel computing (HPC, CUDA, MPI, OpenMP) -->
