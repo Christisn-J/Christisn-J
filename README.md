@@ -118,22 +118,19 @@ University of Tübingen.
     </td>
 </table> -->
 
-
 <div align="center">
 
 <h1>Christian Jetter</h1>
 
 <p>
-M.Sc. in <strong>Physics</strong> with a specialization in <strong>Computational Physics</strong> and
-<strong>Scientific Software Development</strong>, completed at the
+M.Sc. in Physics with a specialization in Computational Physics and Scientific Software Development, completed at the
 <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
 University of Tübingen
 </a>.
 </p>
 
 <p>
-Focused on <strong>C++ software development</strong>, <strong>numerical simulations</strong>, and
-<strong>data-driven scientific computing</strong>.
+Focused on C++ software development, numerical simulation, high-performance computing, and scientific data analysis.
 </p>
 
 <p>
@@ -152,19 +149,19 @@ Focused on <strong>C++ software development</strong>, <strong>numerical simulati
 
 ---
 
-## 🧠 Core Expertise
+## Core Expertise
 
-- Scientific Software Development (C++ / Python)
-- Numerical Simulation & Computational Physics
-- High-Performance Computing (HPC / CUDA / MPI)
-- Data Analysis & Scientific Visualization
-- Physics-based Modeling & Algorithm Development
+- Scientific software development in C++ and Python
+- Numerical simulation of physical systems
+- High-performance computing (HPC, CUDA, MPI)
+- Data analysis and scientific visualization
+- Physics-based modeling and algorithm development
 
 ---
 
-## 🧰 Technologies
+## Technologies
 
-### Programming
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -173,7 +170,7 @@ Focused on <strong>C++ software development</strong>, <strong>numerical simulati
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
-### Tools & Development
+### Development Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -197,26 +194,26 @@ Focused on <strong>C++ software development</strong>, <strong>numerical simulati
 
 ---
 
-## 🚀 Selected Project
+## Selected Project
 
-### 🧠 MilupHPC — HPC Simulation Framework
+### MilupHPC — High-Performance Simulation Framework
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-- High-performance N-body + SPH simulation framework  
-- Developed in **modern C++ with CUDA-aware MPI**  
-- Scalable from single GPU to distributed HPC systems  
-- Supports 1D / 2D / 3D physical simulations  
-- Dynamic load balancing via space-filling curves  
-- Focus on **performance, scalability, and numerical stability**
+- High-performance N-body and Smoothed Particle Hydrodynamics (SPH) simulation framework  
+- Implemented in modern C++ with CUDA-aware MPI for distributed systems  
+- Scalable from single GPU systems to HPC clusters  
+- Supports one-, two- and three-dimensional simulations  
+- Dynamic load balancing using space-filling curve methods  
+- Focus on performance, numerical stability, and scalability  
 
-**Applications:**
-- Astrophysical simulations (Plummer models)
-- Shock physics (Sedov blast wave)
-- Fluid & solid mechanics
-- Plasticity & material modeling (von Mises)
+Applications include:
+- Astrophysical simulations (Plummer models)  
+- Shock physics (Sedov blast wave)  
+- Fluid and solid mechanics  
+- Material modeling including plasticity (von Mises criterion)  
 
 </td>
 
