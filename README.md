@@ -31,7 +31,6 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="24"/>
   <img src="https://img.shields.io/badge/Python-4180aa?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="24"/>
   <img src="https://img.shields.io/badge/Anaconda-4fba37?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" height="24"/>
-  <img src="https://img.shields.io/badge/Pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="pip" height="24"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="24"/>
   <img src="https://img.shields.io/badge/Overleaf-00763d?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf" height="24"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="24"/>
@@ -61,6 +60,7 @@ Currently pursuing a <strong>Master's degree in Physics</strong> at the
 <h4>Additional Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" height="24"/>
+  <img src="https://img.shields.io/badge/Pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="pip" height="24"/>
   <img src="https://img.shields.io/badge/Matlab-ffba00?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" height="24"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5" height="24"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3" height="24"/>
