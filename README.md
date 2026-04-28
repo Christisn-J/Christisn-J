@@ -134,10 +134,6 @@ University of Tübingen
 </p>
 
 <p>
-Focused on scientific software engineering, numerical simulation, high-performance computing, computer vision and data-driven methods.
-</p>
-
-<p>
   <a href="https://github.com/Christisn-J">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
