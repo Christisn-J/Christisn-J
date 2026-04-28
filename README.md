@@ -123,11 +123,14 @@ University of Tübingen.
 <h1>Christian Jetter</h1>
 
 <p>
-M.Sc. in Physics | Computational Physics & Scientific Software Development
+I am a Physics M.Sc. graduate specializing in Computational Physics and Scientific Software Development.<br>
+My work focuses on numerical simulations, data analysis, and high-performance computing using C++ and Python.<br>
+I have experience developing scalable software solutions, working with complex codebases, and applying modern software engineering practices such as version control with Git.<br>
 <br>
+I completed my studies at the 
 <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
 University of Tübingen
-</a>
+</a>.
 </p>
 
 <p>
@@ -177,7 +180,6 @@ Focused on scientific software engineering, numerical simulation, high-performan
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
