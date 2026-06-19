@@ -122,8 +122,16 @@ University of Tübingen.
 
 <h1>Christian Jetter</h1>
 
+Physics M.Sc. Graduate • Scientific Software Developer • Computational Physics
+
+</div>
+
+---
 <p>
-I am a Physics M.Sc. graduate specializing in Computational Physics and Scientific Software Development.<br>
+I am a Physics M.Sc. graduate specializing in Computational Physics and Scientific Software Development, having completed my studies at the
+<a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
+University of Tübingen
+</a>.<br>
 My work focuses on numerical simulations, data analysis, scientific computing, automation and software development using C++ and Python.<br>
 I have experience developing scalable software solutions, processing and analyzing complex datasets, building image processing applications and working with databases. <br>
 I am familiar with modern software engineering practices, including Git-based version control. <br>
@@ -131,11 +139,6 @@ I am familiar with modern software engineering practices, including Git-based ve
 </p>
 <br>
 I am currently seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
-<br>
-I completed my studies at the
-<a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
-University of Tübingen
-</a>.
 </p>
 
 <p>
