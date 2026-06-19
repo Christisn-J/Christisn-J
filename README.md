@@ -122,8 +122,6 @@ University of Tübingen.
 
 <h1>Christian Jetter</h1>
 
-Physics M.Sc. Graduate • Scientific Software Developer • Computational Physics
-
 <p>
   <a href="https://github.com/Christisn-J">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
