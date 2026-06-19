@@ -142,12 +142,12 @@ I am a Physics M.Sc. graduate specializing in Computational Physics and Scientif
 University of Tübingen
 </a>.<br>
 My work focuses on numerical simulations, data analysis, scientific computing, automation and software development using C++ and Python.<br>
-I have experience developing scalable software solutions, processing and analyzing complex datasets, building image processing applications and working with databases. <br>
-I am familiar with modern software engineering practices, including Git-based version control. <br>
+Experience ranges from developing scalable software solutions and processing complex datasets to building image processing applications and working with relational databases. <br>
+Familiar with modern software engineering practices, including Git-based version control and collaborative development workflows.
 <!--  Currently, I am expanding my expertise in Qt development and CI/CD pipelines using GitHub Actions, while also developing data processing pipelines with Python and PHP. -->
 </p>
 <br>
-I am currently seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
+urrently, I am seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
 </p>
 
 </div>
@@ -240,6 +240,7 @@ I am currently seeking an entry-level position in software development, data ana
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
+<!--
 ### Currently Learning
 
 <p>
@@ -250,7 +251,6 @@ I am currently seeking an entry-level position in software development, data ana
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-<!--
 ### Languages
 
 - 🇩🇪 German (C2, native)
