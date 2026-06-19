@@ -124,6 +124,17 @@ University of Tübingen.
 
 Physics M.Sc. Graduate • Scientific Software Developer • Computational Physics
 
+<p>
+  <a href="https://github.com/Christisn-J">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christian-jetter-0052673a5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.xing.com/profile/Christian_Jetter3/">
+    <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white"/>
+  </a>
+</p>
 </div>
 
 ---
@@ -139,18 +150,6 @@ I am familiar with modern software engineering practices, including Git-based ve
 </p>
 <br>
 I am currently seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
-</p>
-
-<p>
-  <a href="https://github.com/Christisn-J">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/christian-jetter-0052673a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.xing.com/profile/Christian_Jetter3/">
-    <img src="https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white"/>
-  </a>
 </p>
 
 </div>
