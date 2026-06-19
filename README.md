@@ -124,10 +124,15 @@ University of Tübingen.
 
 <p>
 I am a Physics M.Sc. graduate specializing in Computational Physics and Scientific Software Development.<br>
-My work focuses on numerical simulations, data analysis, and high-performance computing using C++ and Python.<br>
-I have experience developing scalable software solutions, working with complex codebases, and applying modern software engineering practices such as version control with Git.<br>
+My work focuses on numerical simulations, data analysis, scientific computing, automation and software development using C++ and Python.<br>
+I have experience developing scalable software solutions, processing and analyzing complex datasets, building image processing applications and working with databases. <br>
+I am familiar with modern software engineering practices, including Git-based version control. <br>
+<!--  Currently, I am expanding my expertise in Qt development and CI/CD pipelines using GitHub Actions, while also developing data processing pipelines with Python and PHP. -->
+</p>
 <br>
-I completed my studies at the 
+I am currently seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
+<br>
+I completed my studies at the
 <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/computational-physics/willkommen/">
 University of Tübingen
 </a>.
@@ -153,8 +158,10 @@ University of Tübingen
 
 - Scientific software development in C++ and Python
 - Numerical simulation and scientific computing
+- Scientific data analysis and visualization
 - Computer vision and image processing
-- Scientific data analysis and visualization 
+- Database applications and SQL
+- Automation and workflow development
 - Physics-based modeling and algorithm development
 <!-- - High-performance computing and parallel computing (HPC, CUDA, MPI, OpenMP) -->
 <!-- - Machine learning and deep learning (PyTorch) -->
@@ -188,10 +195,9 @@ University of Tübingen
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
@@ -206,6 +212,14 @@ University of Tübingen
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/Parallel_Computing-2E8B57?style=for-the-badge"/> 
 </p> -->
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### IDEs & Development Environments
 <p>
@@ -225,6 +239,15 @@ University of Tübingen
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
+
+<!--
+### Languages
+
+- 🇩🇪 German (C2, native)
+- 🇬🇧 English (C1)
+- 🇪🇸 Spanish (A2)
+- 🇮🇹 Italian (A1)
+-->
 
 ---
 
