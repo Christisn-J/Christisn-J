@@ -147,7 +147,7 @@ Familiar with modern software engineering practices, including Git-based version
 <!--  Currently, I am expanding my expertise in Qt development and CI/CD pipelines using GitHub Actions, while also developing data processing pipelines with Python and PHP. -->
 </p>
 <br>
-urrently, I am seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
+Currently, I am seeking an entry-level position in software development, data analysis or scientific computing where I can combine analytical thinking with practical software engineering skills.<br>
 </p>
 
 </div>
